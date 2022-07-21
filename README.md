@@ -216,15 +216,15 @@ if the request is success then it with return with `200` status code as followin
 Others valid API request using cURL:
 
 
-# Scrap all ads from a listing page
+Scrap all ads from a listing page
 ```shell
 curl "http://localhost:8080/v1/scrap_all"
 ```
-# Total Ads Count in a listing page 
+Total Ads Count in a listing page 
 ```shell
 curl "http://localhost:8080/v1/scrap_total_ads"
 ```
-# Next page url from a listing page
+Next page url from a listing page
 ```shell
 curl "http://localhost:8080/v1/scrap_next_page_url"
 ```
