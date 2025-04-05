@@ -1,6 +1,3 @@
-## _Md Sultanul Arefin_
-
-****
 ## Task 
 Need to use: node - for running scraping cheerio - for parsing html file (https://www.npmjs.com/package/cheerio, used similarly as jquery) either puppeteer/playwright or request-promise for fetching ads Purpose: scrape otomoto.pl portal using provided interface
 
@@ -11,8 +8,6 @@ Need to use: node - for running scraping cheerio - for parsing html file (https:
 - Add scrapeTruckItem function - that scrapes the actual ads and parses into the format: item id, title, price, registration date, production date, mileage, power
 - Scrape all pages, all ads
 
-
-***
 ## Library 
 
 I uses a number of open source projects to work properly:
